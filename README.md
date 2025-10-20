@@ -15,3 +15,10 @@
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
 
 * Computer Scientists 'do' a huge range of things in many different positions. If we boil down the functions of a Computer Scientist to the most basic form, I would suggest simply that they, 'use technology to solve problems'. The technologies and the issues can vary drastically, but overall the task of a Computer Scientist is to use their technical expertise to solve real life problems. They are extremely important to our modern world as nearly everything we use daily is considered technology. As technlogy continues to advance, it is crucial for society to have individuals who understand how this technology works. Understanding these new technologies allow for them to continue improving, and also allow for problem solving of current issues. Computer Scientists are important in the same way mechanics are important. They both hold expertise in their fields, allowing for complex problem solving where a common individual likely couldn't.
+
+---
+
+**Screenshots**
+<p>
+  <img width="1426" height="844" alt="Screenshot 2025-10-15 122207" src="https://github.com/user-attachments/assets/fdd40ed1-b67d-4a62-b4e6-061d3858d359" />
+</p>
